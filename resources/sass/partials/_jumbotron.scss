@@ -1,0 +1,46 @@
+.jumbotron-container {
+    width: 1200px;
+    height: 500px;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+.jumbotron {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left {
+    width: 50%;
+}
+.right {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#jumbo-img {
+    max-width: 90%;
+}
+h1 {
+    font-size: 58.5px;
+    line-height: 1.1;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+h2 {
+    font-size: 22px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+.paragraph {
+    font-size: 19px;
+    font-weight: 300;
+}
+.jumbotron ul {
+    margin-bottom: 20px;
+    padding-left: 20px;
+}

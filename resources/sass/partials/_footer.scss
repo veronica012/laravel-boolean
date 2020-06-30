@@ -1,0 +1,21 @@
+footer {
+    // background-color: #1b3c59;
+    color: white;
+
+}
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+}
+footer ul li {
+    list-style-type: none;
+}
+
+.footer-top-right {
+    font-size: 20px;
+}
+.footer-top-right a:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+
+}
