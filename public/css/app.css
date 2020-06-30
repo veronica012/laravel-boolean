@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Rubik, sans-serif;
+}
+
+.nav-container li a {
   color: #1b3c59;
 }
 
@@ -65,6 +68,7 @@ a button {
   margin: auto;
   padding-top: 80px;
   padding-bottom: 80px;
+  color: #1b3c59;
 }
 
 .jumbotron {
@@ -113,16 +117,25 @@ h2 {
 }
 
 footer {
-  color: white;
+  background-color: #1b3c59;
+  height: 500px;
+  width: 100%;
 }
 
 .footer-top {
   display: flex;
   justify-content: space-between;
+  padding-bottom: 20px;
+  border-bottom: 1px solid white;
+}
+
+footer a {
+  color: white;
 }
 
 footer ul li {
   list-style-type: none;
+  color: white;
 }
 
 .footer-top-right {
@@ -133,5 +146,27 @@ footer ul li {
   text-decoration: underline;
   -webkit-text-decoration-color: white;
           text-decoration-color: white;
+}
+
+.social {
+  text-align: center;
+}
+
+.icon {
+  display: inline-block;
+  margin: 30px 20px;
+  font-size: 35px;
+}
+
+.icon a:hover {
+  color: #61ce4e;
+}
+
+footer p {
+  color: white;
+}
+
+.info {
+  text-align: center;
 }
 

@@ -40,19 +40,23 @@
             <div class="social">
                 <ul>
                     <li class="icon">
-                        <a href="#"></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
                     </li>
                     <li class="icon">
-                        <a href="#"></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
                     </li>
                     <li class="icon">
-                        <a href="#"></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
                     </li>
                     <li class="icon">
-                        <a href="#"></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
                     </li>
                 </ul>
             </div>
+            <div class="info">
+                <p>Boolean SRL - Piazzale Giovanni dalle Bande Nere, 9 - 20146, Milano - P.IVA: 10214930967</p>
+            </div>
+
         </div>
     </div>
 </footer>
