@@ -64,7 +64,6 @@ a button {
 
 .jumbotron-container {
   width: 1200px;
-  height: 500px;
   margin: auto;
   padding-top: 80px;
   padding-bottom: 80px;
@@ -118,7 +117,6 @@ h2 {
 
 footer {
   background-color: #1b3c59;
-  height: 500px;
   width: 100%;
 }
 
@@ -168,5 +166,9 @@ footer p {
 
 .info {
   text-align: center;
+}
+
+section {
+  margin-bottom: 50px;
 }
 
