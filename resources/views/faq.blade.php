@@ -10,7 +10,7 @@
     <div id ="faq-container">
         <div class="jumbotron">
             <div class="left" id="bg-l-blue">
-                <h2 class="bg-blue-title">Prima del corso</h2>
+                <h2 class="bg-blue-title"  id="blue-title">Prima del corso</h2>
                 <section class="faq-body-question">
                 <h3 class="domanda">Chi può fare il corso Boolean?<i class="fas fa-plus"></i></h3>
                 <p class="risposta">Chiunque abbia una forte curiosità verso il mondo della programmazione e voglia di imparare a fare il mestiere di sviluppatore.

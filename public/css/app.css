@@ -175,7 +175,12 @@ section {
   padding-bottom: 50px;
 }
 
-.faq-container .left {
+#bg-l-blue .domanda,
+.risposta {
+  color: #1b3c59;
+}
+
+#blue-title {
   color: #1b3c59;
 }
 

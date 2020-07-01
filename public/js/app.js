@@ -30176,7 +30176,7 @@ $('.domanda').click(function () {
     $('.risposta').removeClass('aperta');
     $(this).next('.risposta').addClass('aperta');
   }
-}); //event target se volessi chiudere le risposte cliccando su un qualsiasi punto della pagina
+}); //event target per chiudere le risposte cliccando su un qualsiasi punto della pagina
 
 $(document).click(function (event) {
   var target = $(event.target);
