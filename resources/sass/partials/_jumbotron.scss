@@ -8,13 +8,18 @@
 .jumbotron {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
+    // position: relative;
 }
 .left {
     width: 50%;
+
+    // float: left;
 }
 .right {
     width: 50%;
+
+    // float: left;
 }
 #jumbo-img {
     max-width: 90%;
@@ -38,4 +43,9 @@ h2 {
 .jumbotron ul {
     margin-bottom: 20px;
     padding-left: 20px;
+}
+.jumbotron:after {
+    clear: both;
+    display: table;
+    content: '';
 }

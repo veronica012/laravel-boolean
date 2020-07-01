@@ -30171,10 +30171,12 @@ var $ = __webpack_require__(/*! jquery */ "./node_modules/jquery/dist/jquery.js"
 
 $('.domanda').click(function () {
   if ($(this).next('.risposta').hasClass('aperta')) {
-    $(this).next('.risposta').removeClass('aperta;');
+    $(this).next('.risposta').removeClass('aperta');
+    $(this).find('i').removeClass('fa-minus').addClass('fa-plus');
   } else {
     $('.risposta').removeClass('aperta');
     $(this).next('.risposta').addClass('aperta');
+    $(this).find('i').removeClass('fa-plus').addClass('fa-minus');
   }
 }); //event target per chiudere le risposte cliccando su un qualsiasi punto della pagina
 
