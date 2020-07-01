@@ -22,7 +22,7 @@ Route::get('/', function () {
 
 Route::get('/faq', function () {
     return view('faq');
-})->name('faq');
+})->name('domande-frequenti');
 
 Route::get('/privacy-policy', function () {
     return view('privacy-policy');

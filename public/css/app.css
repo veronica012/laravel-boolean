@@ -82,9 +82,6 @@ a button {
 
 .right {
   width: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 #jumbo-img {
@@ -170,5 +167,63 @@ footer p {
 
 section {
   margin-bottom: 50px;
+}
+
+#bg-l-blue {
+  background-color: #e8ebf1;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.faq-container .left {
+  color: #1b3c59;
+}
+
+#bg-blue {
+  background-color: #1b3c59;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#faq-container {
+  width: 100%;
+  padding: 0;
+}
+
+.bg-blue-title {
+  padding: 0 80px;
+  font-weight: 400;
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.risposta {
+  line-height: 30px;
+  font-size: 18px;
+}
+
+.fa-plus {
+  float: right;
+  cursor: pointer;
+}
+
+.faq-body-question {
+  margin: 40px 0;
+  padding: 0 80px;
+}
+
+.risposta.aperta {
+  display: block;
+}
+
+.risposta {
+  display: none;
 }
 

@@ -20,6 +20,7 @@
     <h2>Finalità del trattamento</h2>
     <p>I Dati dell’Utente o dell’Interessato sono raccolti per consentire:
         <br>
+        <br>
         l’erogazione del servizio;
         la risposta a specifiche richieste informative dell’Utente;
         l’aggiornamento dell’Utente sui nuovi prodotti o servizi erogati dal Sito o in relazione a particolari offerte commerciali;
@@ -33,11 +34,13 @@
     <h2>Base giuridica e consenso</h2>
     <p>I Suoi dati personali potranno essere trattati dal Titolare in caso sussista una delle seguenti condizioni:
         <br>
+        <br>
         sia stato prestato il consenso per una o più finalità specifiche ai sensi dell’art. 6 lett. a) del GDPR (ad esempio nel caso di invio di comunicazioni promozionali, profilazione commerciale, behavioral advertising, geolocalizzazione ecc.);
         il trattamento è necessario all'esecuzione di un contratto con l’Utente e/o all'esecuzione di misure precontrattuali ai sensi dell’art. 6 lett. b) del GDPR;
         il trattamento è necessario per adempiere un obbligo legale al quale è soggetto il Titolare ai sensi dell’art. 6 lett. c) del GDPR;
         il trattamento è necessario per il perseguimento del legittimo interesse del Titolare o di terzi.
-
+        <br>
+        <br>
         È comunque sempre possibile richiedere al Titolare di chiarire la concreta base giuridica di ciascun trattamento ed in particolare di specificare se il trattamento sia basato sulla legge, previsto da un contratto o necessario per concludere un contratto.</p>
     </section>
     <section>
@@ -49,7 +52,8 @@
     <h2>Diffusione, Comunicazione dei dati e destinatari</h2>
         <p>I dati personali non sono oggetto di diffusione (intendendosi per tale, il dare conoscenza di dati personali a soggetti indeterminati, in qualunque forma, anche mediante la loro messa a disposizione o consultazione), fatta salva l’ipotesi in cui la diffusione sia richiesta, in conformità alla legge, da forze di polizia, dall’autorità giudiziaria, da organismi di informazione e di sicurezza o da altri soggetti pubblici per finalità di difesa o si sicurezza dello Stato o di prevenzione, accertamento o prevenzione di reati.
         I dati personali potranno invece essere utilizzati, per le finalità precedentemente esposte o per finalità ulteriori, da soggetti terzi, di seguito indicati, che prestano servizi che consentono al Sito di gestire e monitorare elenchi d’indirizzi email utilizzati per comunicare con l’Utente tramite posta elettronica:
-
+        <br>
+        <br>
         Direct Email Marketing (DEM): questo Sito può utilizzare i Dati dell’Utente, se dallo stesso previamente autorizzato, per inviare proposte di natura commerciale in relazione a servizi e prodotti forniti da terze parti. In caso di promozione di prodotti o servizi del titolare analoghi a quelli venduti all’interessato non è necessario il consenso, ma l’interessato, può opporsi in ogni momento a nuovi invii. I dati personali raccolti sono: Email, Cookie, Indirizzo IP, Nome e Cognome.
         Soggetti che forniscono servizi di pubblicità consentendo al Sito di utilizzare i Dati dell’Utente per finalità di comunicazione commerciale visualizzate sotto forma di banner e altre forme pubblicitarie sul Sito in relazione agli interessi dell’Utente;
         Soggetti che forniscono servizi di statistica che tengono traccia del comportamento dell’Utente ed, in caso di profilazione, possono richiedere il consenso espresso dell’Utente (Google Analytics, Social Plugin, Google + …).</p>
@@ -61,7 +65,8 @@
 <section>
     <h2>Definizioni e riferimenti legali</h2>
     <p>Cookie - Il cookie è una porzione di dati che viene memorizzata su un computer o un device mobile quando navighi in internet, affinché il computer o il device mobile possa essere riconosciuto in un momento successivo. I cookies da noi utilizzati non ti profilano, non ti identificano, ma si limitano a riconoscere esclusivamente il dispositivo che utilizzi. I cookies non danneggiano in alcun modo il tuo dispositivo, ma abilitano molteplici importanti caratteristiche del Sito internet. Ti permettono, ad esempio, di tornare alle pagine che avevi cercato; proteggono boolean.careers; ricordano le tue preferenze; personalizzano il contenuto del Sito in modo che sia più adatto a te. Utilizziamo i cookies, inoltre, per raccogliere informazioni sul modo in cui utilizzi il Sito. Utilizziamo queste informazioni esclusivamente per compilare rapporti e come ausilio per migliorare il Sito. La raccolta avviene in forma anonima e riguarda informazioni quali il numero di visitatori del Sito, da dove provengono i visitatori, le pagine visitate. Un cookie non ci dà in nessun modo accesso al tuo computer e non ci fornisce nessuna informazione su di te, oltre ai dati che tu decidi di condividere con noi. Sei libero di scegliere se accettare o meno i cookies. La maggior parte dei browser accetta in automatico i cookies. E’ possibile modificare le impostazioni del tuo browser allo scopo di rifiutare i cookies, se lo preferisci. A tal fine ti invitiamo a consultare le seguenti pagine:
-
+    <br>
+    <br>
     Chrome: Link
     Firefox: Link
     Internet Explorer: Link
@@ -72,7 +77,8 @@
 <section>
     <h2>Trasferimento dei dati personali extra UE</h2>
     <p>Per quanto concerne l’eventuale futuro trasferimento di dati verso Paesi terzi, il Titolare rende noto che l’eventuale trattamento avverrà nel rispetto della normativa, ovvero secondo una delle modalità consentite dalla legge vigente, quali ad esempio:
-
+<br>
+<br>
 Trasferimento verso Paesi che offrono garanzie di protezione adeguate;
 Adozione di clausole contrattuali standard approvate dalla Commissione Europea;
 Adozione di norme vincolanti autorizzate dall’Autorità Garante;
@@ -86,7 +92,8 @@ Nel caso in cui, per trattamenti specifici, i dati dovessero in futuro essere tr
 <section>
     <h2>Diritti dell’interessato</h2>
     <p>Lei potrà rivolgersi al Titolare del trattamento per esercitare i diritti previsti dal Capo III del GDPR. Ha diritto di ottenere a cura del Titolare, senza ritardo:
-
+<br>
+<br>
 la conferma che sia o meno in corso un trattamento dei Suoi dati personali e, in tal caso, di ottenerne l’accesso (diritto di accesso, ex art. 15 GDPR);
 la rettifica dei Suoi dati personali inesatti, o l’integrazione dei dati personali incompleti (diritto di rettifica, ex art. 16 GDPR);
 la cancellazione dei Suoi dati, se sussiste uno dei motivi previsti dal Regolamento (diritto alla cancellazione, ex art. 17 GDPR);
@@ -95,8 +102,8 @@ la trasmissione dei dati personali che lo riguardano a un altro Titolare del tra
 il diritto di opporsi in qualsiasi momento al trattamento dei dati personali che lo riguardano qualora il trattamento dia fondato sul legittimo interesse del Titolare, o su ragioni di pubblico interesse, qualora la tutela delle sue libertà individuali debba ritenersi prevalente su detti interessi legittimi e/o pubblici (diritto di opposizione ex art. 21 GDPR);
 Il diritto di presentare reclamo al Garante della privacy o di ricorrere all’autorità giudiziaria.
 il diritto di ottenere l’elenco completo ed aggiornato di tutti soggetti Responsabili e autorizzati al trattamento dei Suoi dati personali.
-
-
+<br>
+<br>
 Per esercitare i Suoi diritti appena elencati, potrà inoltrare richiesta all’indirizzo e-mail ciao@boolean.careers</p>
 </section>
 </div>
