@@ -197,6 +197,10 @@ section {
   padding-bottom: 50px;
 }
 
+#bg-blue p {
+  color: white;
+}
+
 #faq-container {
   width: 100%;
   padding: 0;
